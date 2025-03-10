@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Computer Vision and Image Processing related research**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/mostafaannur/home](https://sites.google.com/view/mostafaannur/home)
+- 👨‍💻 All of my projects descriptions are available at [https://sites.google.com/view/mostafaannur/home](https://sites.google.com/view/mostafaannur/home)
 
 - 📫 How to reach me **mostafaannur@gmail.com**
 
