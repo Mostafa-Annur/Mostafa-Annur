@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to collaborate on **Computer Vision and Image Processing related research**
 
-- 👨‍💻 All of my projects descriptions are available at [https://sites.google.com/view/mostafaannur/home](https://sites.google.com/view/mostafaannur/home)
+- 👨‍💻 All of my projects descriptions are available at [Mostafa](https://sites.google.com/view/mostafaannur/home)
 
 - 📫 How to reach me **mostafaannur@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/mostafa-ahmed-annur](www.linkedin.com/in/mostafa-ahmed-annur)
+- 📄 Know about my experiences [Mostafa](https://www.linkedin.com/in/mostafa-ahmed-annur/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
